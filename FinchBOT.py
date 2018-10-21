@@ -1,6 +1,6 @@
 #auhauh
 # coding: utf-8
-
+#oi
 # # Data Set Treinamento
 
 # In[1]:

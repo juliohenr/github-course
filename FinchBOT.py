@@ -5,7 +5,9 @@
 #oi
 # In[1]:
 
+#bla bla bla 
 
+#uhauhauha
 dataset = [{'pattern': 'Você mora em um condomínio com vaga de garagem?',
   'id': 'PERGUNTA 1.1',
   'response': {'AFIRMATIVO': {'redirect_id': 'PERGUNTA 2.1'},
@@ -31,6 +33,7 @@ dataset = [{'pattern': 'Você mora em um condomínio com vaga de garagem?',
     'Claro!',
     'Lógico!',
     'Pode ser!',
+    'auhuha',
     'Yes!',
     'Claro que sim!',
     'Lógico que sim!',
